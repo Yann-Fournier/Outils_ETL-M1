@@ -1,0 +1,198 @@
+Date,Produit,Resultat,TVA,Categorie
+2024-10-01,Laptop Elite Pro,2999.98,599.99603,Haut de Gamme
+2024-10-01,Souris Gaming RGB,899.85004,179.97002,Accessoire
+2024-10-01,Clavier Mécanique Azerty,1039.2,207.84,Milieu de Gamme
+2024-10-01,Écran Courbe 27"" 144Hz,1197.0,239.40001,Haut de Gamme
+2024-10-01,Câble HDMI 2.1 2m,999.5,199.90001,Accessoire
+2024-10-01,Casque Audio Sans Fil,995.0,199.0,Milieu de Gamme
+2024-10-02,Webcam 4K avec Micro,1295.0,259.0,Milieu de Gamme
+2024-10-02,Disque SSD NVMe 1TB,959.39996,191.87999,Milieu de Gamme
+2024-10-02,Tablette Graphique Pro,1799.98,359.996,Haut de Gamme
+2024-10-02,Station d'accueil USB-C,596.0,119.200005,Milieu de Gamme
+2024-10-02,Suite Bureautique Pro,1347.0,269.4,Haut de Gamme
+2024-10-02,Antivirus 3 Postes,1249.75,249.95,Accessoire
+2024-10-02,Imprimante Multifonction,349.0,69.8,Haut de Gamme
+2024-10-02,Cartouche Encre Couleur,915.0,183.0,Accessoire
+2024-10-03,Routeur Wi-Fi 6,1323.0,264.6,Milieu de Gamme
+2024-10-03,Switch Gestionable 24 ports,1495.0,299.0,Milieu de Gamme
+2024-10-03,Smartphone Flagship,4799.96,959.992,Haut de Gamme
+2024-10-03,Étui Protection Armée,1049.7001,209.94002,Accessoire
+2024-10-03,Enceinte Bluetooth Smart,1548.0,309.6,Milieu de Gamme
+2024-10-03,Powerbank 30000mAh,1078.2001,215.64001,Accessoire
+2024-10-04,Micro PC Mini,1797.0,359.4,Haut de Gamme
+2024-10-04,RAM DDR5 32Go,1521.0,304.2,Milieu de Gamme
+2024-10-04,Carte Graphique RTX 4080,2598.0,519.60004,Haut de Gamme
+2024-10-04,Ventilateur RGB 120mm,874.75006,174.95001,Accessoire
+2024-10-04,NAS 4 Baies RAID,599.0,119.8,Haut de Gamme
+2024-10-04,Disque Dur Externe 5TB,599.6,119.92,Milieu de Gamme
+2024-10-04,Moniteur UltraWide 34"",1598.0,319.6,Haut de Gamme
+2024-10-04,Support Bras Articulé,1036.0,207.2,Milieu de Gamme
+2024-10-05,Clavier Sans Fil Silencieux,1199.85,239.97,Accessoire
+2024-10-05,Souris Ergonomique Verticale,649.0,129.8,Accessoire
+2024-10-05,Tapis de Souris Gaming,1199.6,239.92,Accessoire
+2024-10-05,Hub USB-C 7-en-1,594.0,118.8,Accessoire
+2024-10-05,Webcam Streaming Full HD,719.92,143.984,Accessoire
+2024-10-05,Casque Réduction de Bruit,1794.0,358.80002,Milieu de Gamme
+2024-10-05,Batterie Externe Solaire,799.0,159.8,Accessoire
+2024-10-05,Logiciel Montage Vidéo,897.0,179.40001,Milieu de Gamme
+2024-10-05,Licence Windows 11 Pro,1393.0,278.6,Milieu de Gamme
+2024-10-06,Écran Tactile 24"",1396.0,279.2,Haut de Gamme
+2024-10-06,Scanner Document A3,998.0,199.6,Haut de Gamme
+2024-10-06,Projecteur HD 4000 lumens,899.0,179.8,Haut de Gamme
+2024-10-06,Caméra Sécurité Wi-Fi,1935.0,387.0,Milieu de Gamme
+2024-10-06,Thermomètre Intelligent,1249.75,249.95,Accessoire
+2024-10-06,Balance Connectée,1438.2001,287.64,Accessoire
+2024-10-06,Montre Sport GPS,2241.0,448.2,Milieu de Gamme
+2024-10-06,Bracelet Activité,2699.7,539.94,Accessoire
+2024-10-07,Drone 4K avec Caméra,2397.0,479.4,Haut de Gamme
+2024-10-07,Console Jeu Portable,1794.0,358.80002,Milieu de Gamme
+2024-10-07,Manette Gaming Pro,959.88,191.976,Accessoire
+2024-10-07,Volant Racing Simulateur,1796.0,359.2,Haut de Gamme
+2024-10-07,Casque VR Réalité Virtuelle,2995.0,599.0,Haut de Gamme
+2024-10-07,Enceinte Home Cinéma 5.1,1798.0,359.6,Haut de Gamme
+2024-10-07,Barre de Son Dolby Atmos,3843.0,768.60004,Haut de Gamme
+2024-10-07,Téléviseur OLED 55"",1799.0,359.80002,Haut de Gamme
+2024-10-08,Box Internet Fibre,799.0,159.8,Accessoire
+2024-10-08,Module Wi-Fi Mesh,1032.0,206.40001,Milieu de Gamme
+2024-10-08,Onduleur 1500VA,1495.0,299.0,Milieu de Gamme
+2024-10-08,Chargeur Rapide 65W,999.75006,199.95001,Accessoire
+2024-10-08,Câble Réseau CAT7 10m,1245.0,249.0,Accessoire
+2024-10-08,Adaptateur HDMI-VGA,585.0,117.0,Accessoire
+2024-10-08,Micro-Cravate Professionnel,1335.0,267.0,Accessoire
+2024-10-08,Miroir Connecté Salle de Bain,1197.0,239.40001,Haut de Gamme
+2024-10-09,Robot Aspirateur Intelligent,3594.0,718.8,Haut de Gamme
+2024-10-09,Purificateur d'Air HEPA,2792.0,558.4,Haut de Gamme
+2024-10-09,Machine à Café Connectée,2245.0,449.0,Haut de Gamme
+2024-10-09,Four à Micro-ondes Smart,2093.0,418.6,Milieu de Gamme
+2024-10-09,Réfrigérateur Connecté,2499.0,499.80002,Haut de Gamme
+2024-10-09,Lave-vaisselle Silencieux,1798.0,359.6,Haut de Gamme
+2024-10-09,Plaque Induction 4 feux,3196.0,639.2,Haut de Gamme
+2024-10-09,Hotte Aspirante Design,2097.0,419.4,Haut de Gamme
+2024-10-10,Vélo d'Appartement Connecté,4995.0,999.0,Haut de Gamme
+2024-10-10,Tapis de Course Pliable,2998.0,599.60004,Haut de Gamme
+2024-10-10,Haltères Intelligents,2388.0,477.6,Milieu de Gamme
+2024-10-10,Montre Cardio-fréquencemètre,2685.0,537.0,Milieu de Gamme
+2024-10-10,Machine à Pain Multifonction,1039.2,207.84,Milieu de Gamme
+2024-10-10,Robot Pâtissier Pro,2394.0,478.80002,Haut de Gamme
+2024-10-10,Set Couteaux Céramique,2249.75,449.95,Accessoire
+2024-10-10,Ustensiles de Cuisine Silicone,980.0,196.0,Accessoire
+2024-10-11,Tente 4 Places Imperméable,1196.0,239.2,Milieu de Gamme
+2024-10-11,Sac de Couchage -10°C,1490.0,298.0,Milieu de Gamme
+2024-10-11,Réchaud Camping Gaz,1198.5,239.7,Accessoire
+2024-10-11,Lampe Frontale LED,1049.7001,209.94002,Accessoire
+2024-10-11,Vélo Tout Terrain Électrique,4998.0,999.60004,Haut de Gamme
+2024-10-11,Trottinette Électrique pliable,6293.0,1258.6,Haut de Gamme
+2024-10-11,Hoverboard Auto-équilibrant,4491.0,898.2,Haut de Gamme
+2024-10-11,Segway Mini Pro,3995.0,799.0,Haut de Gamme
+2024-10-12,Appareil Photo Hybride 24MP,3897.0,779.4,Haut de Gamme
+2024-10-12,Objectif 50mm f/1.8,2392.0,478.4,Milieu de Gamme
+2024-10-12,Trépied Carbone Professionnel,2268.0,453.6,Milieu de Gamme
+2024-10-12,Flash Externe TTL,1494.0,298.80002,Milieu de Gamme
+2024-10-12,Sac Photo Étanche,1798.0,359.6,Accessoire
+2024-10-12,Drone Cinewhoop FPV,3596.0,719.2,Haut de Gamme
+2024-10-12,Gimbal Stabilisateur 3 axes,2691.0,538.2,Milieu de Gamme
+2024-10-12,Micro Cravate sans Fil,2985.0,597.0,Milieu de Gamme
+2024-10-13,Tablette Android 10"",6225.0,1245.0,Milieu de Gamme
+2024-10-13,Liseuse Électronique E-ink,2502.0,500.4,Milieu de Gamme
+2024-10-13,Enregistreur Vocal Numérique,2397.0,479.4,Accessoire
+2024-10-13,Calculatrice Graphique,5199.6,1039.92,Milieu de Gamme
+2024-10-13,Microscope Numérique USB,2388.0,477.6,Milieu de Gamme
+2024-10-13,Télescope Astronomique 150mm,2495.0,499.0,Haut de Gamme
+2024-10-13,Station Météo Professionnelle,2792.0,558.4,Haut de Gamme
+2024-10-13,Détecteur de Fumée Connecté,2225.0,445.0,Accessoire
+2024-10-14,Piano Numérique 88 touches,2697.0,539.4,Haut de Gamme
+2024-10-14,Guitare Électrique Débutant,2093.0,418.6,Milieu de Gamme
+2024-10-14,Ampli Guitare 20W,1341.0,268.2,Milieu de Gamme
+2024-10-14,Micro Chant Dynamique,1498.5,299.7,Accessoire
+2024-10-14,Interface Audio USB,2388.0,477.6,Milieu de Gamme
+2024-10-14,Casque Monitoring Studio,1992.0,398.4,Milieu de Gamme
+2024-10-14,Enceintes Monitoring 5"",2394.0,478.80002,Haut de Gamme
+2024-10-14,Contrôleur MIDI 25 touches,2580.0,516.0,Milieu de Gamme
+2024-10-15,Imprimante 3D Résine,1598.0,319.6,Haut de Gamme
+2024-10-15,Filament PLA 1kg 10 couleurs,1499.5,299.9,Accessoire
+2024-10-15,Scanner 3D Portable,4497.0,899.4,Haut de Gamme
+2024-10-15,Stylo 3D Dessin,1997.5,399.5,Accessoire
+2024-10-15,Machine à Coudre Électronique,2994.0,598.8,Haut de Gamme
+2024-10-15,Surjeteuse 4 fils,2796.0,559.2,Haut de Gamme
+2024-10-15,Fer à Souder Station,1788.0,357.6,Milieu de Gamme
+2024-10-15,Multimètre Numérique Auto,1799.7001,359.94003,Accessoire
+2024-10-16,Perceuse Visseuse Sans Fil,1592.0,318.4,Milieu de Gamme
+2024-10-16,Scie Circulaire Portable,1495.0,299.0,Milieu de Gamme
+2024-10-16,Ponceuse Excentrique,1253.0,250.6,Milieu de Gamme
+2024-10-16,Aspirateur Industriel,1497.0,299.4,Haut de Gamme
+2024-10-16,Nettoyeur Haute Pression,2394.0,478.80002,Haut de Gamme
+2024-10-16,Tondeuse Robot Gazon,2598.0,519.60004,Haut de Gamme
+2024-10-16,Taille-Haie Électrique,2241.0,448.2,Milieu de Gamme
+2024-10-16,Tronçonneuse Thermique,2396.0,479.2,Haut de Gamme
+2024-10-17,Poussette Canne Ultra-légère,5235.0,1047.0,Haut de Gamme
+2024-10-17,Siège Auto Groupe 1/2/3,3588.0,717.60004,Milieu de Gamme
+2024-10-17,Babyphone Vidéo avec Capteurs,3980.0,796.0,Milieu de Gamme
+2024-10-17,Stérilisateur UV Biberons,3247.4998,649.49994,Milieu de Gamme
+2024-10-17,Chauffe-Biberon Rapide,2399.7,479.94,Accessoire
+2024-10-17,Balançoire Bébé Électronique,1992.0,398.4,Milieu de Gamme
+2024-10-17,Table à Langer Pliable,1490.0,298.0,Milieu de Gamme
+2024-10-17,Veilleuse Projecteur Étoiles,1596.0,319.2,Accessoire
+2024-10-18,VTT Carbone 29 pouces,8997.0,1799.4,Haut de Gamme
+2024-10-18,Casque Cycliste Aérodynamique,2985.0,597.0,Milieu de Gamme
+2024-10-18,Maillot Cycliste Pro,3747.4998,749.49994,Milieu de Gamme
+2024-10-18,Chaussures Cyclisme Carbone,5382.0,1076.4,Milieu de Gamme
+2024-10-18,Montre GPS Trail Running,4188.0,837.60004,Haut de Gamme
+2024-10-18,Chaussures Running Carbone,4980.0,996.0,Milieu de Gamme
+2024-10-18,Tapis de Yoga Antidérapant,1749.5001,349.90002,Accessoire
+2024-10-18,Rouleau de Massage Myofascial,747.0,149.40001,Accessoire
+2024-10-19,Tente Rooftop Voiture,1798.0,359.6,Haut de Gamme
+2024-10-19,Glacière Électrique 40L,2392.0,478.4,Milieu de Gamme
+2024-10-19,Pompe à Air 12V double sortie,1198.5,239.7,Accessoire
+2024-10-19,Compresseur de Voyage,1788.0,357.6,Milieu de Gamme
+2024-10-19,Démarreur de Batterie Portable,1990.0,398.0,Milieu de Gamme
+2024-10-19,Nettoyant Jante Haute Pression,749.75,149.95,Accessoire
+2024-10-19,Cire Liquide Protection Carrosserie,1996.0,399.2,Accessoire
+2024-10-19,Kit de Nettoyage Intérieur Voiture,1399.65,279.93002,Accessoire
+2024-10-20,Thermomix TM6,4497.0,899.4,Haut de Gamme
+2024-10-20,Robot Tondeuse Connecté,6495.0,1299.0,Haut de Gamme
+2024-10-20,Aspirateur Robot avec Station,6392.0,1278.4,Haut de Gamme
+2024-10-20,Purificateur d'Eau UV,4788.0,957.60004,Haut de Gamme
+2024-10-20,Distributeur Nourriture Chat Connecté,2980.0,596.0,Milieu de Gamme
+2024-10-20,Fontaine à Eau pour Chien,2247.5,449.5,Accessoire
+2024-10-20,Cage Transport Chien,2985.0,597.0,Milieu de Gamme
+2024-10-20,Arbre à Chat Design,2990.0,598.0,Milieu de Gamme
+2024-10-21,Écran Gaming 32"" 240Hz,3196.0,639.2,Haut de Gamme
+2024-10-21,Fauteuil Gaming Ergonomique,2994.0,598.8,Haut de Gamme
+2024-10-21,Bureau Gaming Réglable,2697.0,539.4,Haut de Gamme
+2024-10-21,Lampe LED Ambiance Gaming,2099.7,419.94,Accessoire
+2024-10-21,Clavier Numérique Macro,1788.0,357.6,Milieu de Gamme
+2024-10-21,Mousepad XXL Édition Limitée,1247.5,249.5,Accessoire
+2024-10-21,Support Casque Gaming,1399.6001,279.92,Accessoire
+2024-10-21,Webcam Streaming 1080p 60fps,2322.0,464.4,Milieu de Gamme
+2024-10-22,Drone avec Suivi Visage,4495.0,899.0,Haut de Gamme
+2024-10-22,Caméra Action 4K Étanche,3192.0,638.4,Haut de Gamme
+2024-10-22,Stabilisateur Smartphone 3 axes,1498.5,299.7,Accessoire
+2024-10-22,Micro Cravate pour Smartphone,1249.75,249.95,Accessoire
+2024-10-22,Trépied pliant Compact,2370.0,474.0,Accessoire
+2024-10-22,Sac à Dos Photographe,2388.0,477.6,Milieu de Gamme
+2024-10-22,Filtre ND Variable 82mm,1490.0,298.0,Milieu de Gamme
+2024-10-22,Batterie Externe 50000mAh,2598.0,519.60004,Milieu de Gamme
+2024-10-23,Montre Connectée Écran AMOLED,8725.0,1745.0,Haut de Gamme
+2024-10-23,Bracelet Santé ECG,5970.0,1194.0,Milieu de Gamme
+2024-10-23,Tensiomètre Bras Électronique,1348.5,269.7,Accessoire
+2024-10-23,Thermomètre Frontal Infrarouge,2399.6,479.92,Accessoire
+2024-10-23,Nebuliseur Ultrasonique,1548.0,309.6,Milieu de Gamme
+2024-10-23,Masque Lumière Pulsée Épilation,2392.0,478.4,Milieu de Gamme
+2024-10-23,Rasoir Électrique 5 lames,4980.0,996.0,Milieu de Gamme
+2024-10-23,Sèche-cheveux Ionique Professionnel,2685.0,537.0,Milieu de Gamme
+2024-10-24,Enceinte Portable Étanche,3225.0,645.0,Milieu de Gamme
+2024-10-24,Radio Réveil Projecteur,2397.0,479.4,Accessoire
+2024-10-24,Radio FM avec Bluetooth,899.82,179.964,Accessoire
+2024-10-24,Poste de Soudure à l'Arc,1495.0,299.0,Milieu de Gamme
+2024-10-24,Meuleuse d'Angle 125mm,1192.0,238.40001,Milieu de Gamme
+2024-10-24,Perforateur Burineur 800W,2394.0,478.80002,Haut de Gamme
+2024-10-24,Pistoler à Peinture Airless,3196.0,639.2,Haut de Gamme
+2024-10-24,Groupe Électrogène Inverter 3000W,3897.0,779.4,Haut de Gamme
+2024-10-25,Chaise de Bureau Ergonomique,5990.0,1198.0,Haut de Gamme
+2024-10-25,Lampe de Bureau LED Réglable,2247.5,449.5,Accessoire
+2024-10-25,Support Ordinateur Portable,1499.7001,299.94003,Accessoire
+2024-10-25,Rangement de Bureau Organiseur,1396.0,279.2,Accessoire
+2024-10-25,Machine à Affranchir,2392.0,478.4,Milieu de Gamme
+2024-10-25,Destructeur de Documents,2388.0,477.6,Milieu de Gamme
+2024-10-25,Relieuse Électrique,2394.0,478.80002,Haut de Gamme
+2024-10-25,Scanner à Plat A4 Rapide,3493.0,698.60004,Haut de Gamme
