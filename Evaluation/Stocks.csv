@@ -1,0 +1,101 @@
+ID_Produit,Produit,Stock_Actuel,Stock_Minimum,Prix_Unitaire,Categorie
+P001,Ordinateur Portable,15,5,899.99,Informatique
+P002,Souris Gaming,45,10,45.50,Accessoire
+P003,Clavier Mécanique,22,8,129.99,Informatique
+P004,Écran 24",18,6,299.00,Informatique
+P005,Casque Audio,32,12,79.90,Audio
+P006,Disque Dur SSD,28,10,149.99,Stockage
+P007,Webcam HD,55,15,39.99,Video
+P008,Tablette Graphique,12,4,349.00,Informatique
+P009,Enceinte Bluetooth,25,8,89.99,Audio
+P010,Imprimante Laser,8,3,249.50,Bureau
+P011,Smartphone,20,7,699.00,Telephonie
+P012,Logiciel Bureautique,100,20,49.99,Logiciel
+P013,Souris Sans Fil,60,15,29.99,Accessoire
+P014,Clavier Sans Fil,35,12,59.90,Informatique
+P015,Disque Dur Externe,40,15,119.00,Stockage
+P016,Écran 27",14,5,399.00,Informatique
+P017,Câbles HDMI,200,50,12.99,Accessoire
+P018,Station d'accueil,18,6,199.99,Informatique
+P019,Microphone USB,30,10,69.50,Audio
+P020,Switch Réseau,25,8,89.00,Reseau
+P021,PC Gamer,6,2,1299.00,Informatique
+P022,Clavier Rétroéclairé,28,10,89.99,Informatique
+P023,Souris Ergonomique,38,12,34.99,Accessoire
+P024,Écran 32" Courbe,9,3,499.00,Informatique
+P025,Casque VR,11,4,299.99,Video
+P026,Disque SSD NVMe,42,15,129.00,Stockage
+P027,Webcam 4K,16,6,149.50,Video
+P028,Enceinte Smart,21,7,159.99,Audio
+P029,Imprimante Jet d'encre,14,5,189.00,Bureau
+P030,Tablette Android,24,8,229.00,Telephonie
+P031,Clavier Compact,50,20,45.99,Informatique
+P032,Souris Verticale,33,11,59.90,Accessoire
+P033,Écran Portable,10,4,349.00,Informatique
+P034,Casque Sans Fil,35,12,119.00,Audio
+P035,Disque Dur 4To,26,9,129.99,Stockage
+P036,Clavier Azerty,75,25,25.50,Informatique
+P037,Souris Filaire,80,30,19.99,Accessoire
+P038,Webcam Full HD,45,15,49.99,Video
+P039,Enceinte Portable,28,10,79.00,Audio
+P040,Imprimante Multifonction,11,4,299.00,Bureau
+P041,Tablette Windows,13,5,449.00,Telephonie
+P042,Clavier Rétro,40,14,39.99,Informatique
+P043,Souris Gaming Pro,17,6,89.50,Accessoire
+P044,Écran 34" UltraWide,5,2,799.00,Informatique
+P045,Casque Studio,12,4,199.00,Audio
+P046,Disque SSD 2To,30,11,199.99,Stockage
+P047,Webcam Streaming,15,5,179.00,Video
+P048,Enceinte PC,65,20,24.99,Audio
+P049,Imprimante Photo,7,3,399.00,Bureau
+P050,Tablette Dessin,9,3,599.00,Telephonie
+P051,Hub USB-C,42,15,34.99,Accessoire
+P052,Écran 29" UltraWide,8,3,449.00,Informatique
+P053,Casque Réduction de Bruit,23,8,289.00,Audio
+P054,SSD Externe 1To,37,12,89.99,Stockage
+P055,Webcam 1080p,52,18,69.99,Video
+P056,Enceinte 2.1,19,6,129.00,Audio
+P057,Imprimante 3D,4,2,799.00,Bureau
+P058,Tablette iOS,16,5,899.00,Telephonie
+P059,Clavier Gaming RGB,31,10,149.99,Informatique
+P060,Souris Trackball,27,9,79.50,Accessoire
+P061,Écran Tactile 22",11,4,599.00,Informatique
+P062,Casque Sport,44,15,89.00,Audio
+P063,Disque NAS 8To,9,3,299.99,Stockage
+P064,Micro Casque,58,20,45.00,Audio
+P065,Scanner Document,14,5,199.00,Bureau
+P066,Smartwatch,29,10,249.00,Telephonie
+P067,Clavier Numérique,66,22,29.99,Informatique
+P068,Souris Mobile,41,14,35.50,Accessoire
+P069,Écran 4K 32",7,3,699.00,Informatique
+P070,Casque Enfants,33,11,49.90,Audio
+P071,SSD M.2 1To,48,16,119.99,Stockage
+P072,Caméra Conférence,13,4,349.00,Video
+P073,Enceinte Barre Son,10,4,399.00,Audio
+P074,Calculatrice Scientifique,85,30,89.99,Bureau
+P075,Écouteurs Sans Fil,52,17,179.00,Telephonie
+P076,Clavier Rétro Rétroéclairé,38,13,99.99,Informatique
+P077,Souris 12 Boutons,24,8,129.00,Accessoire
+P078,Écran Portable 15",6,2,299.00,Informatique
+P079,Casque Aviation,18,6,159.00,Audio
+P080,Disque Dur 2To,62,21,89.99,Stockage
+P081,Micro Studio,8,3,449.00,Audio
+P082,Routeur Wi-Fi 6,35,12,189.00,Reseau
+P083,Clavier Silencieux,47,16,79.90,Informatique
+P084,Souris Design,71,24,42.99,Accessoire
+P085,Écran 240Hz,9,3,899.00,Informatique
+P086,Casque Écouteurs,39,13,69.99,Audio
+P087,SSD Externe 500Go,55,18,64.99,Stockage
+P088,Webcam PTZ,5,2,599.00,Video
+P089,Enceinte Bluetooth Mini,68,23,34.99,Audio
+P090,Destructeur Documents,16,6,149.00,Bureau
+P091,Power Bank 20000mAh,43,15,49.99,Accessoire
+P092,Clavier Rétro Mécanique,21,7,189.99,Informatique
+P093,Souris Ambidextre,29,10,54.50,Accessoire
+P094,Écran 75Hz,25,9,329.00,Informatique
+P095,Casque Conduction Osseuse,14,5,199.00,Audio
+P096,Disque Dur Portable,51,17,109.99,Stockage
+P097,Mixeur Audio,7,3,299.00,Audio
+P098,Switch 16 Ports,19,7,129.00,Reseau
+P099,Clavier Azerty Gaming,44,15,119.99,Informatique
+P100,Souris Filaire Gaming,63,21,39.99,Accessoire

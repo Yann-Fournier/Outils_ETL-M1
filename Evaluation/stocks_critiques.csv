@@ -1,0 +1,57 @@
+"ID_Produit","Produit","Stock_Actuel","Stock_Minimum","Prix_Unitaire","Categorie","Ratio","Produit_a_Risque"
+"P003","Clavier Mécanique",22,8,129.99,"Informatique",2.75,1
+"P005","Casque Audio",32,12,79.9,"Audio",2.6666666666666665,1
+"P006","Disque Dur SSD",28,10,149.99,"Stockage",2.8,1
+"P010","Imprimante Laser",8,3,249.5,"Bureau",2.6666666666666665,1
+"P011","Smartphone",20,7,699,"Telephonie",2.857142857142857,1
+"P014","Clavier Sans Fil",35,12,59.9,"Informatique",2.9166666666666665,1
+"P015","Disque Dur Externe",40,15,119,"Stockage",2.6666666666666665,1
+"P016","Écran 27""",14,5,399,"Informatique",2.8,1
+"P022","Clavier Rétroéclairé",28,10,89.99,"Informatique",2.8,1
+"P025","Casque VR",11,4,299.99,"Video",2.75,1
+"P026","Disque SSD NVMe",42,15,129,"Stockage",2.8,1
+"P027","Webcam 4K",16,6,149.5,"Video",2.6666666666666665,1
+"P029","Imprimante Jet d'encre",14,5,189,"Bureau",2.8,1
+"P031","Clavier Compact",50,20,45.99,"Informatique",2.5,1
+"P033","Écran Portable",10,4,349,"Informatique",2.5,1
+"P034","Casque Sans Fil",35,12,119,"Audio",2.9166666666666665,1
+"P035","Disque Dur 4To",26,9,129.99,"Stockage",2.888888888888889,1
+"P037","Souris Filaire",80,30,19.99,"Accessoire",2.6666666666666665,1
+"P039","Enceinte Portable",28,10,79,"Audio",2.8,1
+"P040","Imprimante Multifonction",11,4,299,"Bureau",2.75,1
+"P041","Tablette Windows",13,5,449,"Telephonie",2.6,1
+"P042","Clavier Rétro",40,14,39.99,"Informatique",2.857142857142857,1
+"P043","Souris Gaming Pro",17,6,89.5,"Accessoire",2.8333333333333335,1
+"P044","Écran 34"" UltraWide",5,2,799,"Informatique",2.5,1
+"P046","Disque SSD 2To",30,11,199.99,"Stockage",2.727272727272727,1
+"P049","Imprimante Photo",7,3,399,"Bureau",2.3333333333333335,1
+"P051","Hub USB-C",42,15,34.99,"Accessoire",2.8,1
+"P052","Écran 29"" UltraWide",8,3,449,"Informatique",2.6666666666666665,1
+"P053","Casque Réduction de Bruit",23,8,289,"Audio",2.875,1
+"P055","Webcam 1080p",52,18,69.99,"Video",2.888888888888889,1
+"P057","Imprimante 3D",4,2,799,"Bureau",2,1
+"P061","Écran Tactile 22""",11,4,599,"Informatique",2.75,1
+"P062","Casque Sport",44,15,89,"Audio",2.933333333333333,1
+"P064","Micro Casque",58,20,45,"Audio",2.9,1
+"P065","Scanner Document",14,5,199,"Bureau",2.8,1
+"P066","Smartwatch",29,10,249,"Telephonie",2.9,1
+"P068","Souris Mobile",41,14,35.5,"Accessoire",2.9285714285714284,1
+"P069","Écran 4K 32""",7,3,699,"Informatique",2.3333333333333335,1
+"P073","Enceinte Barre Son",10,4,399,"Audio",2.5,1
+"P074","Calculatrice Scientifique",85,30,89.99,"Bureau",2.8333333333333335,1
+"P076","Clavier Rétro Rétroéclairé",38,13,99.99,"Informatique",2.923076923076923,1
+"P080","Disque Dur 2To",62,21,89.99,"Stockage",2.9523809523809526,1
+"P081","Micro Studio",8,3,449,"Audio",2.6666666666666665,1
+"P082","Routeur Wi-Fi 6",35,12,189,"Reseau",2.9166666666666665,1
+"P083","Clavier Silencieux",47,16,79.9,"Informatique",2.9375,1
+"P084","Souris Design",71,24,42.99,"Accessoire",2.9583333333333335,1
+"P088","Webcam PTZ",5,2,599,"Video",2.5,1
+"P089","Enceinte Bluetooth Mini",68,23,34.99,"Audio",2.9565217391304346,1
+"P090","Destructeur Documents",16,6,149,"Bureau",2.6666666666666665,1
+"P091","Power Bank 20000mAh",43,15,49.99,"Accessoire",2.8666666666666667,1
+"P093","Souris Ambidextre",29,10,54.5,"Accessoire",2.9,1
+"P094","Écran 75Hz",25,9,329,"Informatique",2.7777777777777777,1
+"P095","Casque Conduction Osseuse",14,5,199,"Audio",2.8,1
+"P097","Mixeur Audio",7,3,299,"Audio",2.3333333333333335,1
+"P098","Switch 16 Ports",19,7,129,"Reseau",2.7142857142857144,1
+"P099","Clavier Azerty Gaming",44,15,119.99,"Informatique",2.933333333333333,1
